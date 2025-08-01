@@ -12,3 +12,5 @@
 ### Events Page
 <img width="315" height="702" alt="Screenshot 2025-08-01 at 11 58 09 AM" src="https://github.com/user-attachments/assets/d01c0b7f-db98-4d19-b0ea-cb78cd08ff47" />
 
+### App Icon
+<img width="313" height="289" alt="Screenshot 2025-08-01 at 12 21 02 PM" src="https://github.com/user-attachments/assets/16bf5648-6844-4d34-b452-caa2deba1369" />
