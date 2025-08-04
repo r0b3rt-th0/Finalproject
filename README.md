@@ -1,16 +1,18 @@
 # Finalproject
 
 ### Profile page
-<img width="310" height="690" alt="Image" src="https://github.com/user-attachments/assets/47a7639a-f41a-4908-84d8-efd612a8c0eb" />
+<img width="365" height="752" alt="Screenshot 2025-08-04 at 10 28 01 AM" src="https://github.com/user-attachments/assets/aa642510-7699-4402-b324-fdb5c95733fe" />
 
 ### Contact page
-<img width="329" height="708" alt="Screenshot 2025-08-01 at 11 57 43 AM" src="https://github.com/user-attachments/assets/dc756dcd-659d-4d4b-a837-521aa778ec16" />
+<img width="363" height="753" alt="Screenshot 2025-08-04 at 10 28 15 AM" src="https://github.com/user-attachments/assets/caf01891-5af6-46c1-a849-6b61bf0b76b7" />
+
 
 ### Home Page 
-<img width="315" height="700" alt="Screenshot 2025-08-01 at 11 58 44 AM" src="https://github.com/user-attachments/assets/5194e1e5-6c33-481b-aa23-8b61d0e35f8d" />
+<img width="361" height="749" alt="Screenshot 2025-08-04 at 10 29 22 AM" src="https://github.com/user-attachments/assets/96fbfe5e-d17a-466a-85b7-ca76845a0b1b" />
 
 ### Events Page
-<img width="315" height="702" alt="Screenshot 2025-08-01 at 11 58 09 AM" src="https://github.com/user-attachments/assets/d01c0b7f-db98-4d19-b0ea-cb78cd08ff47" />
+<img width="219" height="468" alt="Screenshot 2025-08-04 at 11 31 45 AM" src="https://github.com/user-attachments/assets/f8326d71-0342-4ada-bbe5-4cd3648f0b6c" />
 
 ### App Icon
-<img width="313" height="289" alt="Screenshot 2025-08-01 at 12 21 02 PM" src="https://github.com/user-attachments/assets/16bf5648-6844-4d34-b452-caa2deba1369" />
+<img width="363" height="263" alt="Screenshot 2025-08-04 at 10 26 58 AM" src="https://github.com/user-attachments/assets/3ba7c2a9-8b45-473c-af0f-d83226422d5b" />
+
